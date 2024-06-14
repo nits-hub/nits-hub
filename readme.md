@@ -123,11 +123,11 @@
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <br>Bootstrap
+      <br>git
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-      <br>CSS3
+      <br>Linux
     </td>
   </tr>
 </table>
