@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nits-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nits-hub" /> </p>
 
-- 🔭 I’m currently working on [National Informatics Centre](https://github.com/NiteshRatre/RailwayRecruitmentBoardBilaspur)
+- 🔭 I have completed my 6-months internship from [National Informatics Centre](https://github.com/NiteshRatre/RailwayRecruitmentBoardBilaspur) from jan 2024 to july 2024.
 
 - 🌱 I’m currently exploring **React, Redux, Node.js, Express.js, MongoDB, TailwindCSS**
 
