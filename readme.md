@@ -2,6 +2,7 @@
 <h3 align="center">A passionate FullStack developer from Durg, (C.G.), India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nits-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nits-hub" /> </p>
+- 🏢 Currently working as a Backend Developer at Codenicely from Dec 2024.
 
 - 🔭 I have completed my 6-months internship from [National Informatics Centre](https://github.com/NiteshRatre/RailwayRecruitmentBoardBilaspur) from jan 2024 to july 2024.
 
